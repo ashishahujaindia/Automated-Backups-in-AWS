@@ -1,2 +1,2 @@
 # AutomationInAWS
-Contains all Automation Projects for AWS.
+Contains all AWS Automation Projects.
